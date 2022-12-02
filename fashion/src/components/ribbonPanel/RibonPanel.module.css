@@ -1,0 +1,112 @@
+.contentRightRibbon {
+    width: 17.5vw;
+    height: 166.4vw;
+}
+
+.ribbonPhoto {
+    width: 17.5vw;
+}
+
+.ribbonNewsTitleDirection {
+    margin-bottom: 0.3vw;
+    margin-top: 0.9vw;
+    font-style: normal;
+    font-size: 0.8vw;
+    line-height: 1vw;
+    text-transform: uppercase;
+}
+
+.ribbonNewsTitleText {
+    font-style: normal;
+    font-size: 1.2vw;
+    line-height: 1.7vw;
+    margin-bottom: 0.6vw;
+    width: 16.2vw;
+}
+
+.ribbonNewsSignature {
+    font-style: normal;
+    font-size: 0.8vw;
+    line-height: 1vw;
+    width: 7.8vw;
+    height: 1vw;
+    margin-bottom: 0.9vw;
+}
+
+.ribbonNewsAuthorName {
+    font-style: normal;
+    font-size: 1vw;
+    line-height: 1.4vw;
+    margin-top: 1.3vw;
+    margin-bottom: 0.3vw;
+}
+
+.newsStyleItalic {
+    font-style: italic;
+    font-size: 0.9vw;
+    line-height: 1.3vw;
+    color: #B1B1B1;
+    margin-bottom: 0.9vw;
+}
+
+.ribbonNewsText {
+    width: 15vw;
+    height: 4.7vw;
+    font-style: normal;
+    font-size: 0.9vw;
+    line-height: 1.6vw;
+    color: #666666;
+    margin-bottom: 0.9vw;
+}
+
+.reference {
+    font-style: normal;
+    font-size: 0.8vw;
+    line-height: 1vw;
+    text-transform: uppercase;
+    margin-top: 0.8vw;
+    margin-bottom: 0.8vw;
+}
+
+.category {
+    font-style: normal;
+    font-size: 0.9vw;
+    line-height: 1.2vw;
+    color: #666666;
+    height: 3.4vw;
+}
+
+.border {
+    width: 17.5vw;
+    border: 1px solid #E5E5E5;
+}
+
+.mediaBtn {
+    width: 5.7vw;
+    height: 5.7vw;
+    border: 0;
+    background: #F8F9FA;
+}
+
+.logoWidth {
+    width: 1vw;
+}
+
+.mediaBtnText {
+    font-style: normal;
+    font-size: 0.8vw;
+    line-height: 1vw;
+    color: #999999;
+    margin-top: 0.4vw;
+}
+
+.tag {
+    font-family: serif;
+    font-style: normal;
+    font-size: 0.9vw;
+    line-height: 1.2vw;
+    color: #666666;
+    background: #F8F9FA;
+    padding: 0.4vw 0.97vw;
+    border: 0;
+}

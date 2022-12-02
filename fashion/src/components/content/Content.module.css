@@ -1,0 +1,18 @@
+.content {
+    background:
+        url(https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png) no-repeat left top,
+        url(https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png) no-repeat right top,
+        url(https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png) no-repeat center top,
+        url(https://clck.ru/32jLzk) no-repeat center top;
+    background-size: 33vw, 33vw, 33vw, 100vw 45vw;
+    padding-top: 34vw;
+    padding-bottom: 3.2vw;
+}
+
+button {
+    transition-duration: 0.6s;
+}
+
+button:hover {
+    background-color: #e0c591;
+}

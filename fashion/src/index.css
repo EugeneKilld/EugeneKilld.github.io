@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.align-start {
+  align-items: flex-start;
+}
+
+.direction-column {
+  flex-direction: column;
+}
+
+.font-sans {
+  font-family: 'PT Sans', serif;
+}
+
+.font-serif {
+  font-family: 'PT Serif', sans-serif;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.color-gold {
+  color: #C9A96E;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.m-b-80 {
+  margin-bottom: 5.2vw;
+}
+
+.m-b-70 {
+  margin-bottom: 4.5vw;
+}
+
+.m-b-60 {
+  margin-bottom: 3.9vw;
+}
+
+.m-b-40 {
+  margin-bottom: 2.6vw;
+}
+
+.m-b-30 {
+  margin-bottom: 1.9vw;
+}
+
+.m-b-20 {
+  margin-bottom: 1.3vw;
+}
+
+.m-b-3 {
+  margin-bottom: 0.2vw;
+}
+
+.m-t-60 {
+  margin-top: 3.9vw;
+}
+
+.m-l-10 {
+  margin-left: 0.6vw;
+}
+
+.m-l-20 {
+  margin-left: 1.3vw;
+}
+
+.m-r-10 {
+  margin-right: 0.6vw;
+}
+
+.m-r-20 {
+  margin-right: 1.3vw;
+}
+
+.m-r-30 {
+  margin-right: 1.9vw;
+}
+
+.m-r-130 {
+  margin-right: 8.5vw;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #E5E5E5;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.btn {
+  width: 17.5vw;
+  height: 3.2vw;
+  border: 1px solid #E5E5E5;
+  background-color: white;
+  text-align: center;
+  font-style: normal;
+  font-size: 1vw;
+  line-height: 1.4vw;
+}
+
+.m-r-10vw {
+  margin-right: 10vw;
+}
+
+.modalText {
+  font-style: normal;
+  font-size: 1vw;
+  line-height: 1.4vw;
+}
+
+.modalImg {
+  width: 6.7vw;
+}

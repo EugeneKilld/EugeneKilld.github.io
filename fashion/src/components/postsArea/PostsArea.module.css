@@ -1,0 +1,48 @@
+.news {
+    width: 50vw;
+    margin-bottom: 30px;
+}
+
+.smallNews {
+    border: 2px solid #E5E5E5;
+    margin-bottom: 2vw;
+    padding-bottom: 0.7vw;
+    transition-duration: 0.6s;
+}
+
+.smallNews:hover {
+    background-color: #f8ebff;
+    cursor: pointer;
+}
+
+.newsTitleDirection {
+    font-family: 'PT Sans', serif;
+    margin-bottom: 0.39vw;
+    margin-top: 1vw;
+    font-style: normal;
+    font-size: 0.8vw;
+    line-height: 1.1vw;
+    text-transform: uppercase;
+}
+
+.newsTitleText, .bigNewsTitleText {
+    font-style: normal;
+    font-size: 1.3vw;
+    line-height: 1.8vw;
+    margin-bottom: 0.7vw;
+    white-space: pre-line;
+    width: 18.5vw;
+}
+
+.newsSignature {
+    font-style: normal;
+    font-size: 0.8vw;
+    line-height: 1vw;
+    width: 5.8vw;
+    height: 1vw;
+}
+
+.postsPhoto {
+    width: 23.8vw;
+    border-bottom: 2px solid #E5E5E5;
+}

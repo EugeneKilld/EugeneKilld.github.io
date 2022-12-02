@@ -1,0 +1,21 @@
+.instaName {
+    font-style: normal;
+    font-size: 1.6vw;
+    line-height: 2.1vw;
+    color: #171717;
+}
+
+.photo {
+    width: 13vw;
+    background-color: rgb(120 144 85 / 72%);
+    border-radius: 0.5vw;
+    transition-duration: 0.6s;
+}
+
+.photo:hover {
+    width: 16.2vw;
+}
+
+.photoHeight {
+    height: 25.6vw;
+}
